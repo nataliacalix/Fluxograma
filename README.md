@@ -1,4 +1,3 @@
-# Fluxograma
 # Fluxogramas - Pesquisa
 
 ## Introdução
